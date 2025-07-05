@@ -18,3 +18,18 @@ oyun özellikleri: 3D Yaşam Simülasyonu
  Mizahi ve toplumsal göndermeler
  Diyalog sistemi ile interaktif hikaye akışı
  Gelişim sistemi (yetenekler, ilişkiler, para biriktirme)
+
+Hedef kitle :
+15–35 yaş arası oyuncular
+Türkiye'deki oyuncular ve Türk kültürüne aşina olanlar
+Simülasyon, açık dünya ve hikaye temelli oyunları sevenler
+Retro oyun esintilerini seven nostaljik oyuncular
+Yerli yapım destekçisi bağımsız oyunseverler
+
+Pazarlama alanı:
+YouTube & TikTok (komik klipler, mini görevler tanıtımları)
+ Twitch (oyun test yayınları, demo oynanış)
+ Instagram Reels / Threads (karakter tanıtımları, mahalleden sahneler)
+ Basın & Oyun Medyası (Level, Merlin’in Kazanı, Webtekno vs.)
+ Steam ve Itch.io gibi dijital mağazalar
+ Oyun fuarları & yerli oyun etkinlikleri (GIST, Indie Zone)
