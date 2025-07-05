@@ -50,3 +50,93 @@ YouTube & TikTok (komik klipler, mini görevler tanıtımları)
  Basın & Oyun Medyası (Level, Merlin’in Kazanı, Webtekno vs.)
  Steam ve Itch.io gibi dijital mağazalar
  Oyun fuarları & yerli oyun etkinlikleri (GIST, Indie Zone)
+
+# Product Backlog URL:
+
+
+# SPRINT 1 RAPORU – ATARİ ŞÜKRÜ
+Sprint Notları
+
+User Story'ler product backlog öğelerinin içine yazılmıştır.
+
+Miro Board üzerinde her backlog öğesine tıklanarak detaylı bilgiye ulaşılabilmektedir.
+
+Sprint Puanlaması
+
+Bu sprintte tamamlanması hedeflenen toplam puan: 100 puan
+
+Proje genelinde tamamlanması gereken toplam puan: 300 puan
+
+Sprint yapısı: 3 sprint (her biri yaklaşık 100 puan olarak planlanmıştır)
+
+Backlog Düzeni ve Story Seçimi
+Backlog, bir sonraki sprintlerin temelini atacak şekilde planlanmıştır.
+
+Miro panosundaki renk kodları:
+
+Pembe: Yazılım görevleri
+
+Mor: Ses görevleri
+
+Açık yeşil: Görsel efekt görevleri
+
+Koyu yeşil: Türü olmayan görevler
+
+Mavi: Tasarım görevleri
+
+Tüm ekip tamamlanan görevler hakkında görüş bildirmiştir.
+
+Oyunun güncel durumu olumlu bulunmuş ve yeni fikirler geliştirilmiştir.
+
+Bu sprintte tasarlanan kısımlar oybirliğiyle onaylanmıştır.
+
+Herhangi bir teknik veya iletişim problemi yaşanmamıştır.
+
+Daily Scrum Süreci
+Takım içi günlük iletişim Slack Huddle ve WhatsApp üzerinden sağlanmıştır.
+
+Toplantı kayıtları ve WhatsApp ekran görüntüleri arşivlenmiştir.
+
+Tasarım ve Geliştirme Yapısı
+Tasarım grubu aynı zamanda yazılım geliştirme sürecinde aktif rol almıştır.
+
+Tasarım Ekibi Üyeleri:
+[Eksik: Buraya ekip üyeleri yazılacak]
+
+Sprint 1 Gelişmeleri
+Ürün Durumu
+Miro panosundan alınan ekran görüntüleri arşivlenmiştir.
+
+
+Sprint Review Katılımcıları
+Eyüp Kaya
+
+Ömer Şamil Kundu
+
+Sarper Dündar
+
+Emir Akyıldız
+
+Rümeysa Karslı
+
+Sprint İçerisinde Tamamlanan Görevler
+Oyun içinde yer alacak karakter sayısına karar verildi.
+
+Roller yeniden düzenlendi. Product Owner değiştirildi.
+
+Modelleme görevleri için ekip içinde dağılım yapıldı.
+
+Ana karakter olan Şükrü'nün hareket animasyonları ve temel mekanikleri oluşturuldu.
+
+Anne karakterinin tasarımı tamamlandı.
+
+Duvar kaplama işlemleri gerçekleştirildi.
+
+Çevreye ait asset konseptlerinin büyük kısmı tamamlandı.
+
+Genel Değerlendirme
+Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve başarılı şekilde yürütülmüştür. Hedeflenen görevler zamanında tamamlanmış, ekip içinde iletişim düzenli sağlanmıştır. Proje ilerleyişi pozitif şekilde değerlendirilmiştir.
+
+
+# Ekler
+Daily Scrum Toplantı Ekran Görüntüleri( Sprint süresince yapılan günlük scrum toplantılarından seçilen ekran görüntüleri aşağıdadır.)
