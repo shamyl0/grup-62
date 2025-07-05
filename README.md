@@ -1,16 +1,33 @@
-takım ismi:Çimento 62
-takım logosu:-
+# Takım İsmi
+Çimento 62
+# Takım Logosu
+![62](https://github.com/user-attachments/assets/e0e2a999-9937-4eed-9526-25c412062346)
 
-takım elemanları:product owner:Eyüp Kaya
+
+# Takım Elemanları
+
+Product Owner:Eyüp Kaya
+
 Scrum master:Rümeysa Karslı
+
 Developer:Ömer Şamil Kundu
+
 Developer:Sarper Dündar
+
 Developer:Emir Akyıldız
-Oyun ismi:Atari Şükrü
-Oyun logosu:-
-Oyun açıklaması: İstanbul’un gecekondu mahallelerinde ailesiyle yaşayan Şükrü’nün hayat mücadelesini konu alan 3D bir macera/yaşam simülasyonu oyunudur. Oyuncular, Şükrü’nün gündelik yaşamına eşlik ederken işe gitme, çalışıp para kazanma, dinlenme ve çeşitli mini oyunlarla karşılaşma gibi görevleri yerine getirir. Mizahi dili ve yerel dokusuyla oyunculara hem eğlenceli hem de düşündürücü bir deneyim sunar.
-Oyun hikayesi: İstanbul’un gecekondu mahallelerinde ailesiyle fakir bir hayat süren şükrünün başına gelen olayların üstesinden beraber gelmeye çalışacağız.
-oyun özellikleri: 3D Yaşam Simülasyonu
+
+# Oyun ismi
+Atari Şükrü
+# Oyun logosu:-
+# Oyun açıklaması
+İstanbul’un gecekondu mahallelerinde ailesiyle yaşayan Şükrü’nün hayat mücadelesini konu alan 3D bir macera/yaşam simülasyonu oyunudur. Oyuncular, Şükrü’nün gündelik yaşamına eşlik ederken işe gitme, çalışıp para kazanma, dinlenme ve çeşitli mini oyunlarla karşılaşma gibi görevleri yerine getirir. Mizahi dili ve yerel dokusuyla oyunculara hem eğlenceli hem de düşündürücü bir deneyim sunar.
+
+# Oyun hikayesi
+
+İstanbul’un gecekondu mahallelerinde ailesiyle fakir bir hayat süren şükrünün başına gelen olayların üstesinden beraber gelmeye çalışacağız.
+# Oyun Özellikleri
+
+ 3D Yaşam Simülasyonu
  Gecekondu Mahallesi Ortamı
  İşe gitme, çalışarak para kazanma mekanikleri
  Dinlenme, yeme-içme gibi temel ihtiyaç sistemleri
@@ -19,14 +36,14 @@ oyun özellikleri: 3D Yaşam Simülasyonu
  Diyalog sistemi ile interaktif hikaye akışı
  Gelişim sistemi (yetenekler, ilişkiler, para biriktirme)
 
-Hedef kitle :
+# Hedef kitle
 15–35 yaş arası oyuncular
 Türkiye'deki oyuncular ve Türk kültürüne aşina olanlar
 Simülasyon, açık dünya ve hikaye temelli oyunları sevenler
 Retro oyun esintilerini seven nostaljik oyuncular
 Yerli yapım destekçisi bağımsız oyunseverler
 
-Pazarlama alanı:
+# Pazarlama alanı
 YouTube & TikTok (komik klipler, mini görevler tanıtımları)
  Twitch (oyun test yayınları, demo oynanış)
  Instagram Reels / Threads (karakter tanıtımları, mahalleden sahneler)
