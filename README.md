@@ -91,6 +91,11 @@ Tasarım Ekibi Üyeleri:
 Sarper Dündar
 Emir Akyıldız
 
+![WhatsApp Image 2025-07-02 at 12 50 21](https://github.com/user-attachments/assets/0d347e0c-89f4-4961-bd16-625b55ae9ae6)
+![WhatsApp Image 2025-07-04 at 14 21 46](https://github.com/user-attachments/assets/7ce71a0f-e563-4e98-9585-dfdc9b624087)
+![image](https://github.com/user-attachments/assets/b837b1dc-056d-44be-ab67-7720cc5794b7)
+
+
 # Sprint 1 Gelişmeleri
 Ürün Durumu:
 Nasıl bir proje geliştirileceği hakkında karara varıldı ve bu doğrultuda çalışmalara başlandı. 
