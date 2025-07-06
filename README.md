@@ -129,5 +129,6 @@ Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve 
 
 # Ekler
 Daily Scrum Toplantı Ekran Görüntüleri( Sprint süresince yapılan günlük scrum toplantılarından seçilen ekran görüntüleri aşağıdadır.)
+
 ![WhatsApp Image 2025-07-05 at 16 20 34](https://github.com/user-attachments/assets/f0bd97aa-0416-430e-81ae-870dd24da5d8)
 ![WhatsApp Image 2025-07-05 at 16 19 41](https://github.com/user-attachments/assets/b825388d-3c80-458c-a316-e2c79481d34a)
