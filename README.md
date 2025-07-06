@@ -101,7 +101,9 @@ Tasarım ve Geliştirme Yapısı
 Tasarım grubu aynı zamanda yazılım geliştirme sürecinde aktif rol almıştır.
 
 Tasarım Ekibi Üyeleri:
-[Eksik: Buraya ekip üyeleri yazılacak]
+Sarper Dündar
+
+Emir Akyıldız
 
 Sprint 1 Gelişmeleri
 Ürün Durumu
