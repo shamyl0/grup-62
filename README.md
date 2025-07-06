@@ -84,22 +84,23 @@ Herhangi bir teknik veya iletişim problemi yaşanmamıştır.
 Takım içi günlük iletişim Slack Huddle ve WhatsApp üzerinden sağlanmıştır.
 Toplantı kayıtları ve WhatsApp ekran görüntüleri arşivlenmiştir.Allta ekler kısmında ss'ler bulunmaktadır.
 
+# Sprint 1 Gelişmeleri
+
 # Tasarım ve Geliştirme Yapısı
 Tasarım grubu aynı zamanda yazılım geliştirme sürecinde aktif rol almıştır.
 
 Tasarım Ekibi Üyeleri:
 Sarper Dündar
 Emir Akyıldız
+Ürün Durumu:
+Nasıl bir proje geliştirileceği hakkında karara varıldı ve bu doğrultuda çalışmalara başlandı. 
 
 ![WhatsApp Image 2025-07-02 at 12 50 21](https://github.com/user-attachments/assets/0d347e0c-89f4-4961-bd16-625b55ae9ae6)
 ![WhatsApp Image 2025-07-04 at 14 21 46](https://github.com/user-attachments/assets/7ce71a0f-e563-4e98-9585-dfdc9b624087)
 ![image](https://github.com/user-attachments/assets/b837b1dc-056d-44be-ab67-7720cc5794b7)
 
 
-# Sprint 1 Gelişmeleri
-Ürün Durumu:
-Nasıl bir proje geliştirileceği hakkında karara varıldı ve bu doğrultuda çalışmalara başlandı. 
-Miro panosundan alınan ekran görüntüleri arşivlenmiştir.
+
 
 
 # Sprint Review Katılımcıları
@@ -116,8 +117,6 @@ Rümeysa Karslı
 # Sprint İçerisinde Tamamlanan Görevler
 Oyun içinde yer alacak karakter sayısına karar verildi.
 
-Roller yeniden düzenlendi. Product Owner değiştirildi.
-
 Modelleme görevleri için ekip içinde dağılım yapıldı.
 
 Ana karakter olan Şükrü'nün hareket animasyonları ve temel mekanikleri oluşturuldu.
@@ -129,6 +128,9 @@ Duvar kaplama işlemleri gerçekleştirildi.
 Çevreye ait asset konseptlerinin büyük kısmı tamamlandı.
 
 Mini oyunların oynanacağı arcade makine tasarımı yapıldı.
+
+# Sprint Retrospective
+Roller yeniden düzenlendi. Product Owner değiştirildi.
 
 # Genel Değerlendirme
 Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve başarılı şekilde yürütülmüştür. Hedeflenen görevler zamanında tamamlanmış, ekip içinde iletişim düzenli sağlanmıştır. Proje ilerleyişi pozitif şekilde değerlendirilmiştir.
