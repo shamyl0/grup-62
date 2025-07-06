@@ -92,7 +92,7 @@ Sarper Dündar
 Emir Akyıldız
 
 # Sprint 1 Gelişmeleri
-Ürün Durumu
+Ürün Durumu:
 Nasıl bir proje geliştirileceği hakkında karara varıldı ve bu doğrultuda çalışmalara başlandı. 
 Miro panosundan alınan ekran görüntüleri arşivlenmiştir.
 
@@ -129,3 +129,4 @@ Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve 
 
 # Ekler
 Daily Scrum Toplantı Ekran Görüntüleri( Sprint süresince yapılan günlük scrum toplantılarından seçilen ekran görüntüleri aşağıdadır.)
+
