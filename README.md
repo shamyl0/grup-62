@@ -128,6 +128,8 @@ Duvar kaplama işlemleri gerçekleştirildi.
 
 Çevreye ait asset konseptlerinin büyük kısmı tamamlandı.
 
+Mini oyunların oynanacağı arcade makine tasarımı yapıldı.
+
 # Genel Değerlendirme
 Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve başarılı şekilde yürütülmüştür. Hedeflenen görevler zamanında tamamlanmış, ekip içinde iletişim düzenli sağlanmıştır. Proje ilerleyişi pozitif şekilde değerlendirilmiştir.
 
