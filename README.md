@@ -79,6 +79,8 @@ Tüm ekip tamamlanan görevler hakkında görüş bildirmiştir.
 Oyunun güncel durumu olumlu bulunmuş ve yeni fikirler geliştirilmiştir.
 Bu sprintte tasarlanan kısımlar oybirliğiyle onaylanmıştır.
 Herhangi bir teknik veya iletişim problemi yaşanmamıştır.
+![fbfc49e4-7a09-4714-a8b1-bf5b910bf938](https://github.com/user-attachments/assets/08d12b9c-928f-42ed-81e6-fa062e121265)
+
 
 # Daily Scrum Süreci
 Takım içi günlük iletişim Slack Huddle ve WhatsApp üzerinden sağlanmıştır.
