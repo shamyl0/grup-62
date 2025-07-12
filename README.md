@@ -142,4 +142,39 @@ Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve 
 Daily Scrum Toplantı Ekran Görüntüleri( Sprint süresince yapılan günlük scrum toplantılarından seçilen ekran görüntüleri aşağıdadır.)
 
 ![WhatsApp Image 2025-07-05 at 16 20 34](https://github.com/user-attachments/assets/f0bd97aa-0416-430e-81ae-870dd24da5d8)
-![WhatsApp Image 2025-07-05 at 16 19 41](https://github.com/user-attachments/assets/b825388d-3c80-458c-a316-e2c79481d34a)
+![WhatsApp Image 2025-07-05 at 16 19 41](https://github.com/user-attachments/assets/b825388d-3c80-458c-a316-e2c79481d34a) 
+
+
+# Sprint 2
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+# Daily Scrum: Daily Scrum toplantıları hem Whatsapp üzerinden hem de slack huddle üzerinden devam etmiştir. Huddle'da haftada birkaç gün toplantılar yapılmıştır. 
+
+
+
+# Toplantı ve Whatsapp ScreenShotları:
+
+# SPRINT2
+# Referans Gorsel:
+
+# Sprint 2 board update: Sprint 2 Board Screenshot:
+
+# Ürün Durumu: Ekran Görüntüleri:
+
+# Sprint Review:
+
+Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 
+# Sprint Review katılımcıları:Eyüp Kaya
+
+Ömer Şamil Kundu
+
+Sarper Dündar
+
+Emir Akyıldız
+
+Rümeysa Karslı
+
+# Sprint Retrospective:
+
+Sprint 2 için alınan puan 100'dür.
+
