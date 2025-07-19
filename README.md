@@ -161,6 +161,8 @@ Daily Scrum toplantıları hem Whatsapp üzerinden hem de slack huddle üzerinde
 
 # SPRINT2
 # Referans Gorsel:
+<img width="1024" height="1024" alt="b19a1e23-68b8-47c6-b6d2-4c116957b4ac" src="https://github.com/user-attachments/assets/467a323b-3f31-4770-aafe-f810565ee7fa" />
+
 
 
 # Sprint 2 board update: Sprint 2 Board Screenshot:
@@ -190,6 +192,7 @@ Rümeysa Karslı
 
 # Sprint Retrospective:
 Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
+
 
 Sprint 2 için alınan puan 95'dir.
 
