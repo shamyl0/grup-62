@@ -169,7 +169,6 @@ https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sha
 # Ürün Durumu: Ekran Görüntüleri:
 ![24564ffe-aef4-420e-8e07-0d53a7298503](https://github.com/user-attachments/assets/1a0832b6-2a6f-488b-98ff-27a73bca7abb)
 ![6a0a8030-8214-4352-8bc7-191bcff785c9](https://github.com/user-attachments/assets/2f55d6ad-1698-4130-aeb9-3de5f97c018c)
-![9b041116-a1ea-424d-b835-4fe7e96a4767](https://github.com/user-attachments/assets/eed8825b-09b5-4fc8-8b9f-0aec72ed54d4)
 ![13060e3b-b602-4df8-9e5d-d99ba5923e15](https://github.com/user-attachments/assets/f58f338e-2440-4490-9bbb-0d2c75b75295)
 ![b460ad4d-7a7e-4445-a47b-040ff5e52f44](https://github.com/user-attachments/assets/a0cb5b52-43cf-4426-bd2a-3d1cf195f292)
 
