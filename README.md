@@ -153,11 +153,19 @@ Daily Scrum toplantıları hem Whatsapp üzerinden hem de slack huddle üzerinde
 
 
 # Toplantı ve Whatsapp ScreenShotları:
+![f883854a-78e1-4983-a6d5-be878f6fc44b](https://github.com/user-attachments/assets/e0a4182d-c485-47db-aa12-5e30de8a0b83)
+![9d04303c-b80a-4cda-8434-54312349e11a](https://github.com/user-attachments/assets/83abbd38-07eb-40d6-a362-e9c8c6371532)
+![6e24309d-9852-4f57-a60d-40e8b22fa45d](https://github.com/user-attachments/assets/82a2efbf-57ba-4932-8fec-88009529bb34)
+![41eb95d8-7b1f-452a-a3a7-fe9ae6f64497](https://github.com/user-attachments/assets/d9f4d243-84da-4918-bd07-c80ced06b3c2)
+
 
 # SPRINT2
 # Referans Gorsel:
 
+
 # Sprint 2 board update: Sprint 2 Board Screenshot:
+![b7810cee-2943-4048-a58a-cb124bf400cf](https://github.com/user-attachments/assets/c4542691-33b9-47ba-a559-af5bb7a08b45)
+
 
 # Ürün Durumu: Ekran Görüntüleri:
 ![24564ffe-aef4-420e-8e07-0d53a7298503](https://github.com/user-attachments/assets/1a0832b6-2a6f-488b-98ff-27a73bca7abb)
@@ -181,7 +189,7 @@ Emir Akyıldız
 Rümeysa Karslı
 
 # Sprint Retrospective:
-Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.
+Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
 
-Sprint 2 için alınan puan 100'dür.
+Sprint 2 için alınan puan 95'dir.
 
