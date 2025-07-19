@@ -188,10 +188,13 @@ Sarper Dündar
 
 Emir Akyıldız
 
+Eyüp Kaya
+
 Rümeysa Karslı
 
 # Sprint Retrospective:
 Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
+Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
 
 Sprint 2 için alınan puan 95'dir.
