@@ -164,7 +164,8 @@ https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sha
 
 
 # Sprint 2 board update: Sprint 2 Board Screenshot:
-![b7810cee-2943-4048-a58a-cb124bf400cf](https://github.com/user-attachments/assets/c4542691-33b9-47ba-a559-af5bb7a08b45)
+![d439f73e-982b-44c9-9fc0-473adec4e2ce](https://github.com/user-attachments/assets/7c4d7974-a75b-4fbc-965a-9ffc9fbe9fd7)
+
 
 
 # Ürün Durumu: Ekran Görüntüleri:
@@ -181,12 +182,12 @@ Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 
 Eyüp Kaya,Ömer Şamil Kundu,Sarper Dündar,Emir Akyıldız ,Rümeysa Karslı
 
 # Sprint Retrospective:
-Sprint 2 için alınan puan 90'dir.
+
 Tüm karakterler tamamlanmıştır.
 oyun içi kullanılacak  ses efektleri kararlaştırldı.
 Kullanılacak sahneler(inşaat,ev)tasarlanmıştır.
 Karakter kontrol mekanizması ayarlandı.
-Minigamelerin bir kısmı tamamlandı.
+Minigamelerin büyük  kısmı tamamlandı.
 Sahne geçişleri ayarlandı.
 Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
 Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
