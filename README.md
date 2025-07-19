@@ -145,7 +145,7 @@ Daily Scrum Toplantı Ekran Görüntüleri( Sprint süresince yapılan günlük 
 ![WhatsApp Image 2025-07-05 at 16 19 41](https://github.com/user-attachments/assets/b825388d-3c80-458c-a316-e2c79481d34a) 
 
 
-# Sprint 2
+# SPRINT2
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 # Daily Scrum: 
@@ -156,7 +156,7 @@ Daily Scrum toplantıları hem Whatsapp üzerinden hem de slack huddle üzerinde
 https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sharing 
 
 
-# SPRINT2
+
 # Referans Gorsel:
 <img width="1024" height="1024" alt="b19a1e23-68b8-47c6-b6d2-4c116957b4ac" src="https://github.com/user-attachments/assets/467a323b-3f31-4770-aafe-f810565ee7fa" />
 
@@ -176,17 +176,8 @@ https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sha
 # Sprint Review:
 
 Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 
-# Sprint Review katılımcıları:Eyüp Kaya
-
-Ömer Şamil Kundu
-
-Sarper Dündar
-
-Emir Akyıldız
-
-Eyüp Kaya
-
-Rümeysa Karslı
+# Sprint Review katılımcıları:  
+Eyüp Kaya,Ömer Şamil Kundu,Sarper Dündar,Emir Akyıldız ,Rümeysa Karslı
 
 # Sprint Retrospective:
 Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
