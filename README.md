@@ -18,7 +18,9 @@ Developer:Emir Akyıldız
 
 # Oyun ismi
 Atari Şükrü
-# Oyun logosu:-
+# Oyun logosu:
+<img width="1024" height="1024" alt="e253a9d5-cdaf-4c5d-aaff-72be720bb31f" src="https://github.com/user-attachments/assets/ad35662f-8c2b-4bf6-a313-a8d71fe7242a" />
+
 # Oyun açıklaması
 İstanbul’un gecekondu mahallelerinde ailesiyle yaşayan Şükrü’nün hayat mücadelesini konu alan 3D bir macera/yaşam simülasyonu oyunudur. Oyuncular, Şükrü’nün gündelik yaşamına eşlik ederken işe gitme, çalışıp para kazanma, dinlenme ve çeşitli mini oyunlarla karşılaşma gibi görevleri yerine getirir. Mizahi dili ve yerel dokusuyla oyunculara hem eğlenceli hem de düşündürücü bir deneyim sunar.
 
