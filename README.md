@@ -136,7 +136,6 @@ Mini oyunların oynanacağı arcade makine tasarımı yapıldı.
 # Sprint Retrospective
 Roller yeniden düzenlendi. Product Owner değiştirildi.
 
-# Genel Değerlendirme
 Sprint 1, oyunun temel yapı taşlarını oluşturmak amacıyla planlanmış ve başarılı şekilde yürütülmüştür. Hedeflenen görevler zamanında tamamlanmış, ekip içinde iletişim düzenli sağlanmıştır. Proje ilerleyişi pozitif şekilde değerlendirilmiştir.
 
 
@@ -177,14 +176,20 @@ https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sha
 
 # Sprint Review:
 
-Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 
-# Sprint Review katılımcıları:  
+Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Genel olarak sprint hedeflerine ulaşılmıştır.
+*Sprint Review katılımcıları:* 
 Eyüp Kaya,Ömer Şamil Kundu,Sarper Dündar,Emir Akyıldız ,Rümeysa Karslı
 
 # Sprint Retrospective:
-Tüm karakterler tamamlanmış,oyun içi müzikler bulunmuş kullanılacak sahneler(inşaat,ev)tasarlanmıştır.Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
+Sprint 2 için alınan puan 90'dir.
+Tüm karakterler tamamlanmıştır.
+oyun içi kullanılacak  ses efektleri kararlaştırldı.
+Kullanılacak sahneler(inşaat,ev)tasarlanmıştır.
+Karakter kontrol mekanizması ayarlandı.
+Minigamelerin bir kısmı tamamlandı.
+Sahne geçişleri ayarlandı.
+Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
 Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
 
-Sprint 2 için alınan puan 95'dir.
 
