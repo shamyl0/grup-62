@@ -153,10 +153,7 @@ Daily Scrum toplantıları hem Whatsapp üzerinden hem de slack huddle üzerinde
 
 
 # Toplantı ve Whatsapp ScreenShotları:
-![f883854a-78e1-4983-a6d5-be878f6fc44b](https://github.com/user-attachments/assets/e0a4182d-c485-47db-aa12-5e30de8a0b83)
-![9d04303c-b80a-4cda-8434-54312349e11a](https://github.com/user-attachments/assets/83abbd38-07eb-40d6-a362-e9c8c6371532)
-![6e24309d-9852-4f57-a60d-40e8b22fa45d](https://github.com/user-attachments/assets/82a2efbf-57ba-4932-8fec-88009529bb34)
-![41eb95d8-7b1f-452a-a3a7-fe9ae6f64497](https://github.com/user-attachments/assets/d9f4d243-84da-4918-bd07-c80ced06b3c2)
+https://drive.google.com/drive/folders/1ckHE_z1th5weYv6jLet9kJH-uE7Qnzc7?usp=sharing 
 
 
 # SPRINT2
