@@ -192,5 +192,29 @@ Sahne geçişleri ayarlandı.
 Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılmıştır.
 Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
+# Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir.
+
+Daily Scrum: Daily Scrum toplantıları whatsapp ve huddle üzerinden gerçekleştirlmiştir.
+
+Daily Scrum:
+
+
+Sprint board update: Sprint board screenshotı: Backlog 
+
+Ürün Durumu: Ekran görüntüleri:
+
+
+
+** Final Video**: ATARİ ŞÜKRÜ Trailer
+
+Sprint Review:
+Sprint  3 ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 3. sprint hedeflerine ulaşılmıştır.
+Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
+Tamamlanması gereken 100 puanlık backlog puanı tamamlanmıştır.
+Sprint Review katılımcıları:.Eyüp Kaya,Ömer Şamil Kundu,Sarper Dündar,Emir Akyıldız ,Rümeysa Karslı
+Sprint Retrospective:
+
+ Gelecek projeler için  iletişimde kalınacağına dair konuşuldu.
 
 
