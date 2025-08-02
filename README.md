@@ -193,17 +193,22 @@ Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılm�
 Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
 # Sprint 3
-# Sprint 3
+
 Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir ve takım bu punaı tamamlayamayınca strateji değiştirmiye karar verdi.
+
 Grup üyelerinin hayat yoğunluğu ,sorumlulukları ve iletişim eksikliği vb. durumlardan dolayı atari şükrü oyununu sunmak yerine sadece 
-2 boyutlu bir bombacı oyunu sunmaya karar verildi.Bu tüm grubun istişare ederek aldığı bir karar oldu.Asıl projenin ne olacağı konusunda ,önümüzdeki zamanlarda iletişimde kalınıp oyunu tamamlamaya ve geliştirmeye karar verildi.
+2 boyutlu bir bombacı oyunu sunmaya karar verildi.
+Bu tüm grubun istişare ederek aldığı bir karar oldu.Asıl projenin ne olacağı konusunda ,önümüzdeki zamanlarda iletişimde kalınıp oyunu tamamlamaya ve geliştirmeye karar verildi.
 Daily Scrum: Daily Scrum toplantıları whatsapp  üzerinden gerçekleştirlmiştir.
 
 Ürün Durumu: 
 Atari şükrü yerine 2 boyutlu bir bombacı oyunu yapıldı .oyun tam olarak oynanmaya hazır şekilde bu dosyada mevcuttur.
+![65696d81-508d-48b8-bbf6-e840752a000d](https://github.com/user-attachments/assets/afb2a731-f725-4146-b328-e0d38b2479f9)
+
 
 
 ** Final Video**: 
+
 
 Sprint Review:
 Sprint  3 ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.
