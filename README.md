@@ -193,28 +193,22 @@ Bu sprintte karakter içi diyologlara zaman ayrılmamış 3. sprinte bırakılm�
 Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
 # Sprint 3
-Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir.
+# Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir ve takım bu punaı tamamlayamayınca strateji değiştirmiye karar verdi.
+Grup üyelerinin hayat yoğunluğu ,sorumlulukları ve iletişim eksikliği vb. durumlardan dolayı atari şükrü oyununu sunmak yerine sadece 
+2 boyutlu bir bombacı oyunu sunmaya karar verildi.Bu tüm grubun istişare ederek aldığı bir karar oldu.Asıl projenin ne olacağı konusunda ,önümüzdeki zamanlarda iletişimde kalınıp oyunu tamamlamaya ve geliştirmeye karar verildi.
+Daily Scrum: Daily Scrum toplantıları whatsapp  üzerinden gerçekleştirlmiştir.
 
-Daily Scrum: Daily Scrum toplantıları whatsapp ve huddle üzerinden gerçekleştirlmiştir.
-
-Daily Scrum:
-
-
-Sprint board update: Sprint board screenshotı: Backlog 
-
-Ürün Durumu: Ekran görüntüleri:
+Ürün Durumu: 
+Atari şükrü yerine 2 boyutlu bir bombacı oyunu yapıldı .oyun tam olarak oynanmaya hazır şekilde bu dosyada mevcuttur.
 
 
-
-** Final Video**: ATARİ ŞÜKRÜ Trailer
+** Final Video**: 
 
 Sprint Review:
-Sprint  3 ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 3. sprint hedeflerine ulaşılmıştır.
-Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
-Tamamlanması gereken 100 puanlık backlog puanı tamamlanmıştır.
+Sprint  3 ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.
 Sprint Review katılımcıları:.Eyüp Kaya,Ömer Şamil Kundu,Sarper Dündar,Emir Akyıldız ,Rümeysa Karslı
 Sprint Retrospective:
 
- Gelecek projeler için  iletişimde kalınacağına dair konuşuldu.
-
+ Atari şükrü için  iletişimde kalınacağına dair konuşuldu.
 
