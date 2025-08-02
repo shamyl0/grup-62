@@ -194,7 +194,7 @@ Takım içi iletişimin daha aktif olması için vurgu yapılmıştır.
 
 # Sprint 3
 
-Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir ve takım bu punaı tamamlayamayınca strateji değiştirmiye karar verdi.
+Sprint içinde tamamlanması tahmin edilen puan 100 olarak belirlenmiştir ve takım bu puanı tamamlayamayınca strateji değiştirmiye karar verdi.
 
 Grup üyelerinin hayat yoğunluğu ,sorumlulukları ve iletişim eksikliği vb. durumlardan dolayı atari şükrü oyununu sunmak yerine sadece 
 2 boyutlu bir bombacı oyunu sunmaya karar verildi.
