@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b738478cb90cf3e42bd5d375b181b38f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - click: {fileID: 8300000, guid: 05c8c44d959dcb54e89d0d5309de62be, type: 3}
+  - dead: {fileID: 8300000, guid: 6c97c3f1795b0fd4fa22b995b3b17970, type: 3}
+  - boom: {fileID: 8300000, guid: e99b07c35749b6e40b9c8edc44d9cb4f, type: 3}
+  - powerup: {fileID: 8300000, guid: 7d8b55498c7201945b825f847562996b, type: 3}
+  - putbomb: {fileID: 8300000, guid: 5329cdc83ec99e0439c3c1e5d057de10, type: 3}
+  - victory: {fileID: 8300000, guid: f85b7ea996516974a95071650a9b6414, type: 3}
+  - gamemusic: {fileID: 8300000, guid: 32c413cb435528a44b0e2a87928c471f, type: 3}
+  - menumusic: {fileID: 8300000, guid: 933c8fce36f5b3843b98e91dc6bca293, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
